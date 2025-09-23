@@ -2,8 +2,6 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\stude\\OneDrive\\Documents\\Programs\\opencv\\build\\java\\opencv-4120.jar",
-        "c:\\Users\\Luiz\\Documents\\AutumaMusume\\opencv\\build\\java\\opencv-4120.jar"
+        "lib/**/*.jar"
     ]
 }

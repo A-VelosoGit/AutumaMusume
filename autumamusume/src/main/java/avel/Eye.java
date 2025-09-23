@@ -1,7 +1,8 @@
-import java.awt.Rectangle;
-import java.util.HashMap;
-import java.awt.image.BufferedImage;
+package avel;
 import java.awt.Point;
+import java.awt.Rectangle;
+import java.awt.image.BufferedImage;
+import java.util.HashMap;
 
 public class Eye {
      // A class that handles detection of clickable items and returns mouse coordinates for the Hand to click at

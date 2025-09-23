@@ -1,7 +1,8 @@
-import java.awt.Robot;
+package avel;
 import java.awt.AWTException;
-import java.awt.event.MouseEvent;
 import java.awt.Point;
+import java.awt.Robot;
+import java.awt.event.MouseEvent;
 
 public class Hand {
     // A class for the auto-clicker
